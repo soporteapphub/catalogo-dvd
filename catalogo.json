@@ -25,14 +25,6 @@
       "url": "https://www.dropbox.com/scl/fi/0868i479uqk1d5u78kq8g/x.apk?rlkey=oia0dkjjae52kmjxvspl7v0ay&st=k9qfaf64&dl=0"
     },
     {
-      "nombre": "SD MEX",
-      "version": "5.0",
-      "dispositivo": "TV",
-      "descripcion": "Proveedor México, versión 5",
-      "icono": "https://www.dropbox.com/scl/fi/q43hhg83qgsrbwwyy5mf4/FB_IMG_1794703147461.jpg?rlkey=oueg3cjg8l90anlxzi0ewdvkh&st=6zmudjva&dl=0",
-      "url": "https://www.dropbox.com/scl/fi/fhycgxzbo60fdsnoa1413/SDMEXv5.apk?rlkey=7zhlf82nlipokj1ps46ey8h5w&st=80qry81j&dl=0"
-    },
-    {
       "nombre": "Bud Tv",
       "version": "4",
       "dispositivo": "TV",
@@ -49,12 +41,12 @@
       "url": "https://www.dropbox.com/scl/fi/40gt6yxro06482xuudm45/1Streamm.apk?rlkey=bctnhmqyqlm24344fim22v3x3&st=jt0jxioc&dl=0"
     },
     {
-      "nombre": "Sd mex",
+      "nombre": "Max player",
       "version": "1.0",
       "dispositivo": "TV",
-      "descripcion": "Proveedor México",
-      "icono": "https://www.dropbox.com/scl/fi/q43hhg83qgsrbwwyy5mf4/FB_IMG_1794703147461.jpg?rlkey=oueg3cjg8l90anlxzi0ewdvkh&st=7zkxo8qv&dl=0",
-      "url": "https://www.dropbox.com/scl/fi/obm7hqiru8km6yu9rwe5w/SDMEX.apk?rlkey=pqwkb7nvfu8kb0es6p8nra857&st=y7at70fo&dl=0"
+      "descripcion": "De paga",
+      "icono": "https://store-images.s-microsoft.com/image/apps.62534.13676842288719597.6d6ec7e7-c656-4d40-b079-508453d7f145.3081aff6-5295-4b66-8210-f12f16aa2a6c?h=307",
+      "url": "https://www.dropbox.com/scl/fi/mxvjiezuu8io16ly47b9a/Max-Player.apk?rlkey=yuw52kebwlfkx6nl3g6e88h6a&st=xudxh1bm&dl=0"
     },
     {
       "nombre": "Latintv",
@@ -87,6 +79,22 @@
       "descripcion": "Reproductor de video",
       "icono": "https://www.dropbox.com/scl/fi/vnxsfc37my1o48q3519qz/vlc.jpg?rlkey=s5cgpt787z34gmwrbq3jgufj5&st=aiv5mo0m&dl=0",
       "url": "https://www.dropbox.com/scl/fi/z8z3i4mp243pjqmmets5h/vlc.apk?rlkey=84w79tjxyl9f5nj3fzcer219b&st=95eo82u5&dl=0"
+    },
+    {
+      "nombre": "Sd mex",
+      "version": "1.0",
+      "dispositivo": "TV",
+      "descripcion": "Proveedor México",
+      "icono": "https://www.dropbox.com/scl/fi/q43hhg83qgsrbwwyy5mf4/FB_IMG_1794703147461.jpg?rlkey=oueg3cjg8l90anlxzi0ewdvkh&st=7zkxo8qv&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/obm7hqiru8km6yu9rwe5w/SDMEX.apk?rlkey=pqwkb7nvfu8kb0es6p8nra857&st=y7at70fo&dl=0"
+    },
+    {
+      "nombre": "SD MEX",
+      "version": "5.0",
+      "dispositivo": "TV",
+      "descripcion": "Proveedor México, versión 5",
+      "icono": "https://www.dropbox.com/scl/fi/q43hhg83qgsrbwwyy5mf4/FB_IMG_1794703147461.jpg?rlkey=oueg3cjg8l90anlxzi0ewdvkh&st=6zmudjva&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/fhycgxzbo60fdsnoa1413/SDMEXv5.apk?rlkey=7zhlf82nlipokj1ps46ey8h5w&st=80qry81j&dl=0"
     },
     {
       "nombre": "TeamViewer Host",
