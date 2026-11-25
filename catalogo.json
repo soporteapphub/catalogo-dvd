@@ -25,14 +25,6 @@
       "url": "https://www.dropbox.com/scl/fi/0868i479uqk1d5u78kq8g/x.apk?rlkey=oia0dkjjae52kmjxvspl7v0ay&st=k9qfaf64&dl=0"
     },
     {
-      "nombre": "Bud Tv",
-      "version": "4",
-      "dispositivo": "TV",
-      "descripcion": "Budtv",
-      "icono": "https://www.dropbox.com/scl/fi/pdige28ge08lk7dr8tckr/btvmx.png?rlkey=3dxy03ui9pga5t3j5am714jjm&st=90ru003v&dl=0",
-      "url": "https://www.dropbox.com/scl/fi/gkbvpxuilpwxy0ryw4c3q/V4.apk?rlkey=l79okfpzigk2awx6jl3c2xkr6&st=1620kat9&dl=0"
-    },
-    {
       "nombre": "1 stream",
       "version": "1.0",
       "dispositivo": "TV",
@@ -41,20 +33,28 @@
       "url": "https://www.dropbox.com/scl/fi/40gt6yxro06482xuudm45/1Streamm.apk?rlkey=bctnhmqyqlm24344fim22v3x3&st=jt0jxioc&dl=0"
     },
     {
-      "nombre": "Max player",
+      "nombre": "Sdmex platino",
       "version": "1.0",
       "dispositivo": "TV",
-      "descripcion": "De paga",
-      "icono": "https://store-images.s-microsoft.com/image/apps.62534.13676842288719597.6d6ec7e7-c656-4d40-b079-508453d7f145.3081aff6-5295-4b66-8210-f12f16aa2a6c?h=307",
-      "url": "https://www.dropbox.com/scl/fi/mxvjiezuu8io16ly47b9a/Max-Player.apk?rlkey=yuw52kebwlfkx6nl3g6e88h6a&st=xudxh1bm&dl=0"
+      "descripcion": "",
+      "icono": "https://www.dropbox.com/scl/fi/htadrjj9kzrmbp70gzqoo/sdmexplatino.jpg?rlkey=3lppdqfamageubn81sm4o62xf&st=e9rr1yak&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/j4sfl554fbo3g8bgh7awk/sdmexplatino.apk?rlkey=pos64x0eexc2ehsybk37bxhyh&st=ehllulwu&dl=0"
     },
     {
-      "nombre": "Latintv",
+      "nombre": "Bud Tv",
+      "version": "4",
+      "dispositivo": "TV",
+      "descripcion": "Budtv",
+      "icono": "https://www.dropbox.com/scl/fi/pdige28ge08lk7dr8tckr/btvmx.png?rlkey=3dxy03ui9pga5t3j5am714jjm&st=90ru003v&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/gkbvpxuilpwxy0ryw4c3q/V4.apk?rlkey=l79okfpzigk2awx6jl3c2xkr6&st=1620kat9&dl=0"
+    },
+    {
+      "nombre": "Sd mex",
       "version": "1.0",
       "dispositivo": "TV",
-      "descripcion": "Canales de TV en vivo",
-      "icono": "https://www.dropbox.com/scl/fi/5d5l17lxmsms07m4g55mv/latintv.jpg?rlkey=ejk3uinx05i7nkgnvi12dbywr&st=xegyvdez&dl=0",
-      "url": "https://www.dropbox.com/scl/fi/9nz6frfwpov5jsgxltf8c/ZonaV5.apk?rlkey=2dkjbzihmjldldyfg4e9qgjxx&st=yub0tw9q&dl=0"
+      "descripcion": "Proveedor México",
+      "icono": "https://www.dropbox.com/scl/fi/q43hhg83qgsrbwwyy5mf4/FB_IMG_1794703147461.jpg?rlkey=oueg3cjg8l90anlxzi0ewdvkh&st=7zkxo8qv&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/obm7hqiru8km6yu9rwe5w/SDMEX.apk?rlkey=pqwkb7nvfu8kb0es6p8nra857&st=y7at70fo&dl=0"
     },
     {
       "nombre": "Tv Latino Perú",
@@ -63,6 +63,14 @@
       "descripcion": "Canales de TV de Perú",
       "icono": "https://www.dropbox.com/scl/fi/5zqrxz1ev138utk0oo48v/latintvperu.jpg?rlkey=g5oewxmd7zkm469haxdt5wanl&st=3135h1xe&dl=0",
       "url": "https://www.dropbox.com/scl/fi/4pzyegy49np8ylom7u3hp/LATINTV.apk?rlkey=t4wfnt16085ap286jcf9sriun&st=20vu5ue1&dl=0"
+    },
+    {
+      "nombre": "Latintv",
+      "version": "1.0",
+      "dispositivo": "TV",
+      "descripcion": "Canales de TV en vivo",
+      "icono": "https://www.dropbox.com/scl/fi/5d5l17lxmsms07m4g55mv/latintv.jpg?rlkey=ejk3uinx05i7nkgnvi12dbywr&st=xegyvdez&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/9nz6frfwpov5jsgxltf8c/ZonaV5.apk?rlkey=2dkjbzihmjldldyfg4e9qgjxx&st=yub0tw9q&dl=0"
     },
     {
       "nombre": "Supertv",
@@ -79,14 +87,6 @@
       "descripcion": "Reproductor de video",
       "icono": "https://www.dropbox.com/scl/fi/vnxsfc37my1o48q3519qz/vlc.jpg?rlkey=s5cgpt787z34gmwrbq3jgufj5&st=aiv5mo0m&dl=0",
       "url": "https://www.dropbox.com/scl/fi/z8z3i4mp243pjqmmets5h/vlc.apk?rlkey=84w79tjxyl9f5nj3fzcer219b&st=95eo82u5&dl=0"
-    },
-    {
-      "nombre": "Sd mex",
-      "version": "1.0",
-      "dispositivo": "TV",
-      "descripcion": "Proveedor México",
-      "icono": "https://www.dropbox.com/scl/fi/q43hhg83qgsrbwwyy5mf4/FB_IMG_1794703147461.jpg?rlkey=oueg3cjg8l90anlxzi0ewdvkh&st=7zkxo8qv&dl=0",
-      "url": "https://www.dropbox.com/scl/fi/obm7hqiru8km6yu9rwe5w/SDMEX.apk?rlkey=pqwkb7nvfu8kb0es6p8nra857&st=y7at70fo&dl=0"
     },
     {
       "nombre": "SD MEX",
@@ -114,3 +114,4 @@
     }
   ]
 }
+
